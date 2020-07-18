@@ -13,4 +13,3 @@ An open source Ecommerce platform server for building online shopping cart syste
 
 All components of Six910 are developed as Go modules and injected using dependency injection.
 
-
